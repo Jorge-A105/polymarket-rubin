@@ -40,9 +40,9 @@ Rubin is a Node.js system for automated execution and order management on Polyma
 - Happy to share additional logs/metrics privately upon request
 
 ### Contact
-- Maintainer: **[MI ALIAS]**
-- Email: **[EMAIL]**
-- Telegram: **[TELEGRAM]**
+- Maintainer: JorgeCIC
+- Email: *(Provided privately in the official Polymarket Builder application / email thread)*
+- Telegram: *(Provided privately via email thread)*
 
 ---
 
@@ -66,6 +66,7 @@ Rubin is a Node.js system for automated execution and order management on Polyma
 - Con 100 tx/day aparecen rate-limits y se degrada la operativa
 
 ### Contacto
-- Responsable: **[MI ALIAS]** — **[EMAIL]** — **[TELEGRAM]**
-
-> Nota: este README es intencionalmente de alto nivel (sin código, sin detalles operativos sensibles, sin secretos).
+- Responsable: **[Tu Alias de Dev / Cripto]**
+- Email: Email: (Proporcionado por vía privada en la solicitud oficial / hilo de email)
+- Telegram: (Proporcionado por vía privada en el hilo de email)
+  
