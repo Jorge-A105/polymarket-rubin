@@ -7,10 +7,8 @@ Rubin is a Node.js system for automated execution and order management on Polyma
 ## English
 
 ### What Rubin does (today)
-- **Production today (FAK):** automated execution using **FAK (Fill-or-Kill)** orders
-- Defined **execution cadence** and order management; **no resting orders**
 - **Three independent nodes:** 1h, 15m, 5m
-- Each node is isolated with its own **wallet/account**, **Builder Profile/ID**, and **Builder API key**
+- Nodes are isolated by account/wallet and separate Builder Profiles (details provided privately in the official application)
 
 ### Roadmap (GTC/GTD quoting — not live yet)
 - Deploy resting limit-order quoting on eligible markets under the **Liquidity Rewards** program
@@ -38,16 +36,14 @@ Rubin is a Node.js system for automated execution and order management on Polyma
 - Maintainer: JorgeCIC
 - Email: *(Provided privately in the official Polymarket Builder application / email thread)*
 - Telegram: *(Provided privately via email thread)*
-
+ 
 ---
 
 ## Español
 
 ### Qué hace Rubin (hoy)
-- **Producción (FAK):** ejecución automatizada con órdenes **FAK (Fill-or-Kill)**
-- Cadencia de ejecución y gestión de órdenes; **sin órdenes resting**
 - **Tres nodos independientes:** 1h, 15m, 5m
-- Cada nodo aislado con su **wallet/cuenta**, **Builder Profile/ID** y **Builder API key**
+- Nodos aislados por cuenta/wallet y perfiles Builder separados (detalles por vía privada en la solicitud oficial)
 
 ### Roadmap (quoting GTC/GTD — aún no está en producción)
 - Desplegar quoting con órdenes limit resting en mercados elegibles del programa **Liquidity Rewards**
@@ -68,6 +64,6 @@ Rubin is a Node.js system for automated execution and order management on Polyma
 
 ### Contacto
 - Responsable: JorgeCIC
-- Email: Email: (Proporcionado por vía privada en la solicitud oficial / hilo de email)
+- Email: (Proporcionado por vía privada en la solicitud oficial / hilo de email)
 - Telegram: (Proporcionado por vía privada en el hilo de email)
   
