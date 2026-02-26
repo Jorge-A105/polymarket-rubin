@@ -23,16 +23,11 @@ Rubin is a Node.js system for automated execution and order management on Polyma
 - The **5m node** needs **~288+ relayer tx/day** for basic order management / execution cadence
 - At 100 tx/day we hit relayer rate-limits, degrading normal operation
 
-### Current / expected volume (for attribution)
-- Bot 5m: **DAY $12,399.75 | WEEK $19,858.50**
-- Bot 15m: **DAY $32,785.67 | WEEK $69,268.25**
-- Bot 1h: **DAY $24,394.74 | WEEK $64,796.80**
-- TOTAL: **DAY $69,580.16 | WEEK $153,923.55**
-
-### Builder profiles (public placeholders)
-- **[WALLET_1] — [BUILDER_ADDRESS_1] — [BUILDER_KEY_1]**
-- **[WALLET_2] — [BUILDER_ADDRESS_2] — [BUILDER_KEY_2]**
-- **[WALLET_3] — [BUILDER_ADDRESS_3] — [BUILDER_KEY_3]**
+### Current / expected volume (Builder counters)
+- Bot 5m: **DAY $12,646.05 | WEEK $21,102.24**
+- Bot 15m: **DAY $33,836.37 | WEEK $73,547.20**
+- Bot 1h: **DAY $23,374.50 | WEEK $67,591.11**
+- TOTAL (sum): **DAY $69,856.92 | WEEK $162,240.55**
 
 ### Security & operations (high level)
 - Non-custodial signing (EIP-712); secrets are never committed
@@ -65,8 +60,14 @@ Rubin is a Node.js system for automated execution and order management on Polyma
 - El nodo **5m** requiere **~288+ relayer tx/day** para rutinas básicas
 - Con 100 tx/day aparecen rate-limits y se degrada la operativa
 
+### Volumen actual / esperado (contadores Builder)
+- Bot 5m: **DAY $12,646.05 | WEEK $21,102.24**
+- Bot 15m: **DAY $33,836.37 | WEEK $73,547.20**
+- Bot 1h: **DAY $23,374.50 | WEEK $67,591.11**
+- TOTAL (suma): **DAY $69,856.92 | WEEK $162,240.55**
+
 ### Contacto
-- Responsable: **[Tu Alias de Dev / Cripto]**
+- Responsable: JorgeCIC
 - Email: Email: (Proporcionado por vía privada en la solicitud oficial / hilo de email)
 - Telegram: (Proporcionado por vía privada en el hilo de email)
   
